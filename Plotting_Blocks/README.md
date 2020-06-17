@@ -1,4 +1,4 @@
-Orignal image I'm trying to recreate:
+Original image I'm trying to recreate:
 
 ![orgPlotBlocks](https://user-images.githubusercontent.com/60452595/84849834-10ba6000-b00b-11ea-87fc-f9337862de3e.JPG)
 
